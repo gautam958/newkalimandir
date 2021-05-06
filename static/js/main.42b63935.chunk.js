@@ -1,0 +1,2 @@
+(this.webpackJsonpnewkalimandir=this.webpackJsonpnewkalimandir||[]).push([[0],{11:function(n,e,a){"use strict";a.r(e);a(1);var i=a(3),t=a.n(i),c=(a(8),a(9),a(0));var r=function(){return Object(c.jsx)("div",{className:"App",children:"Jai Maa Kali"})};t.a.render(Object(c.jsx)(r,{}),document.getElementById("root"))},8:function(n,e,a){},9:function(n,e,a){}},[[11,1,2]]]);
+//# sourceMappingURL=main.42b63935.chunk.js.map
